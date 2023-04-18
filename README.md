@@ -11,9 +11,7 @@ O programa visa abrir o navegador e realizar a procura de dados pré-selecionado
 <br><br>
 ***Video no youtube compilando o código:***
 
-[<img align="left" alt="WebScrapping | Youtube" width="130px" src="https://user-images.githubusercontent.com/106937501/207482489-eaa87752-d060-4e21-b480-b4ed8884a52e.png" />][youtube]
+[<img align="left" alt="WebScrapping | Youtube" width="130px" src="https://user-images.githubusercontent.com/106937501/232796579-d95acc7a-5b55-423c-aa17-c12cc0d8aca5.png" />][youtube]
 
 [youtube]:   https://www.youtube.com/watch?v=3U2NWeiyBeE&ab_channel=jferreiraz
 [pixstudio]: https://pixrpa.com/
-
-
