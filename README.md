@@ -10,6 +10,7 @@ Baseado em RPA, robotic process automation, que traduzido para português seria 
 O programa visa abrir o navegador e realizar a procura de dados pré-selecionados, captá-los e imprimi-los na aplicação.<br><br>
 Foi o utilizado o site: *fundsexplorer.com.br/ranking*, página web responsável por fornecer informações a respeito de fundos imobiliários, por meio do webscrapping foi possível captar informações dispoíveis na tabela.
 <br><br>
+
 ***Video no youtube compilando o código:***
 
 [<img align="left" alt="WebScrapping | Youtube" width="130px" src="https://user-images.githubusercontent.com/106937501/232796579-d95acc7a-5b55-423c-aa17-c12cc0d8aca5.png" />][youtube]
