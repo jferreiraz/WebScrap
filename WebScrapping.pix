@@ -4,7 +4,7 @@
   <Description>Novo script vazio.</Description>
   <Id>eef77c3f-a70f-4177-ae64-ff54c49065b6</Id>
   <Logic z:Id="i2" i:type="ExecutedStep">
-    <Childs>
+    <Childs> 
       <AbstractStep z:Id="i3" i:type="ExecutedStep">
         <Childs />
         <Id>c2503ad7-d96c-4aea-a63d-2510e55f9e3c</Id>
